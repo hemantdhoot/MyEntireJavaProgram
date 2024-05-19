@@ -8,7 +8,9 @@ public class Hereical_class2 extends Hereical_class1 {
 
 	public static void main(String[] args)   {
 		add();
-
+		sub();
 	}
 
 }
+
+//both child inherting parent1
